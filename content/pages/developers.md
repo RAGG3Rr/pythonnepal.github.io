@@ -80,6 +80,9 @@ Maintain the list in alphabetical order
 - **Nischal Lal Shrestha**  
 [Email](mailto:hi@nischal.info.np) | [Github](https://github.com/theonlyNischal) | [Linkedin](https://www.linkedin.com/in/theonlyNischal/) | [Nischal's Website](https://nischal.info.np/) | [Facebook](https://facebook.com/theonlyNischal/)
 
+- **Pranil Khadka**  
+[Email](mailtto:pranilkhadka321@gmail.com) | [Github](https://github.com/RAGG3Rr) | [Linkedin](https://www.linkedin.com/in/pranil-khadka-428a59194/)
+
 - **Pujan Thapa**  
 [Email](mailto:iampujan@outlook.com) | [Github](https://github.com/iampujan) | [Twitter](https://twitter.com/iampujan20)  | [Website](https://pujanthapa.com.np) | [Linkedin](https://www.linkedin.com/in/iampujan/)
 
